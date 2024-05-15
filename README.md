@@ -1,4 +1,4 @@
-# Some example of nodejs libs and common pattern
+# example of nodejs libs and common pattern
 
 ```js
 // --> NO-NEED to understand: if we just develop business logic for web application in nodejs using nowaday frameworks, just never touch these module
