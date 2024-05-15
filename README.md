@@ -1,6 +1,6 @@
 # Some example of nodejs libs and common pattern
 
-"""js
+```js
 // --> NO-NEED to understand: if we just develop business logic for web application in nodejs using nowaday frameworks, just never touch these module
 // const v8 = require('v8')
 // const vm = require('vm')
@@ -36,4 +36,4 @@
 // const crypto = require('crypto')
 // const event = require('events')
 // const stream = require('stream')
-"""
+```
